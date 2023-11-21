@@ -7,7 +7,8 @@
 
 Develop a frontend in Reactjs or Nextjs, which does the following:
 
-1. Renders a "profile screen" as follows: https://www.terriblytinytales.com/profile.jpeg (this is a sample screenshot taken from mobile view)
+1. Renders a "profile screen" as follows: https://www.terriblytinytales.com/profile.jpeg (this is a sample screenshot taken from mobile view)![profile](https://github.com/Anibaba4296/TERRIBLY-TINY-TALES-assignment/assets/103889271/efddcce2-6317-4ba3-919d-7dcc375ba779)
+
 
 2. The profile data can be hardcoded in a local JSON and need not have a backend.
 
