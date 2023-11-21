@@ -37,7 +37,7 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
 
 ## Components
 
-1. App.js - The main component which renders the All child components.
+1. <b>App.js</b> - The main component which renders the All child components.
 
     Consists of 3 child components:
     1. Navbar
@@ -49,15 +49,15 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
     2. Posts Container UI
 
 
-2. Navbar.jsx - The component which renders the Navbar.
-3. Profile.jsx - The component which renders the Profile.
-4. Posts.jsx - The component which renders the Posts.
+2. <b>Navbar.jsx</b> - The component which renders the Navbar.
+3. <b>Profile.jsx</b> - The component which renders the Profile.
+4. <b>Posts.jsx</b> - The component which renders the Posts.
 
 ## Fuunctionalities
 
 1. The Navbar is fixed at the top of the page.
-2. The Profile is renders the profile data and show total number of followers, following and user reviews.
-3. The Posts renders the posts data and show total number of posts along with like button which increments the number of likes on click.
+2. The Profile fetch and renders the profile data and show total number of followers, following and user reviews.
+3. The Posts fetch and renders the posts data and show total number of posts along with like button which increments the number of likes on click.
 4. The page is responsive and can be viewed on different mobile types.
 
 
