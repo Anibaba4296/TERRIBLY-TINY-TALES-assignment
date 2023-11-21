@@ -15,15 +15,7 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
 
 <hr style="color:green;">
 
-## Solution
 
-1. The solution is developed using Reactjs.
-2. The solution is responsive and can be viewed on different mobile types.
-3. The solution is deployed on netlify and can be viewed at (https://655c2f395df8ab311051e9da--radiant-travesseiro-ac49f2.netlify.app/)
-@@ -26,35 +19,26 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
-8. Components are used to make the code modular and reusable.
-9. Assests are used to store the images.
-10. CSS is used to style the components.
 
 <hr>
 ## Steps to run the project
