@@ -64,3 +64,26 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
 2. The Profile fetch and renders the profile data and show total number of followers, following and user reviews.
 3. The Posts fetch and renders the posts data and show total number of posts along with like button which increments the number of likes on click.
 4. The page is responsive and can be viewed on different mobile types.
+
+   <hr>
+   Note:
+      In cover image if have wrote 
+         .cover-sec {
+                width: 100vw;
+                height: 25vh;
+                background-color: bisque;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: 100%;
+            }
+   instead of 
+            .cover-sec {
+                width: 100vw;
+                height: 15vh;
+                background-color: bisque;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: 100%;
+            }
+
+   due to which the cover image is not giving apropriate output.
