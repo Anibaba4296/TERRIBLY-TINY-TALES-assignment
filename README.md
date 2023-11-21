@@ -36,7 +36,8 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
 3. Run `npm start` to run the project.
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 5. Inspect the page and change the device type to view the responsiveness.
-
+   
+<hr>
 ## Components
 
 1. <b>App.js</b> - The main component which renders the All child components.
@@ -55,6 +56,7 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
 3. <b>Profile.jsx</b> - The component which renders the Profile.
 4. <b>Posts.jsx</b> - The component which renders the Posts.
 
+<hr>
 ## Fuunctionalities
 
 1. The Navbar is fixed at the top of the page.
