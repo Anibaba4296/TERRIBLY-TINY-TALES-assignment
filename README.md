@@ -1,6 +1,6 @@
 # Terribly Tiny Tales Assignment
-<h1>Student name : Aniket Kumar</h1>
-<h1>College : Lovely Professional University</h1>
+<h3>Student name : Aniket Kumar</h3>
+<h3>College : Lovely Professional University</h3>
 
 ## Problem Statement
 
@@ -12,6 +12,7 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
 
 3. The screen when opened on different mobile types, should render consistently. This can be checked in Chrome Inspect in mobile view, by changing device types or on actual physical devices.
 
+<hr style="color:green;">
 
 ## Solution
 
