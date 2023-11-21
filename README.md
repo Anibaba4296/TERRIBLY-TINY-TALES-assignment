@@ -14,7 +14,18 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
 3. The screen when opened on different mobile types, should render consistently. This can be checked in Chrome Inspect in mobile view, by changing device types or on actual physical devices.
 
 <hr style="color:green;">
+## Solution
 
+1. The solution is developed using Reactjs.
+2. The solution is responsive and can be viewed on different mobile types.
+3. The solution is deployed on netlify and can be viewed at (https://655c2f395df8ab311051e9da--radiant-travesseiro-ac49f2.netlify.app/)
+4. Data is fetched from a local JSON file.
+5. The solution is developed using functional components and hooks.
+6. The solution is developed using Font-Awesome icons.
+7. UseState and CallBack hooks are used to handle the state and events.
+8. Components are used to make the code modular and reusable.
+9. Assests are used to store the images.
+10. CSS is used to style the components.
 
 
 <hr>
