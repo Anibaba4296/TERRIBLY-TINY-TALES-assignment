@@ -1,4 +1,6 @@
 # Terribly Tiny Tales Assignment
+<h1>Student name : Aniket Kumar</h1>
+<h1>College : Lovely Professional University</h1>
 
 ## Problem Statement
 
