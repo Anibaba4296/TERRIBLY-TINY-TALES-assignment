@@ -18,7 +18,7 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
 
 1. The solution is developed using Reactjs.
 2. The solution is responsive and can be viewed on different mobile types.
-3. The solution is deployed on Vercel and can be viewed at https://ttt-assignment-one.vercel.app/
+3. The solution is deployed on netlify and can be viewed at (https://655c2f395df8ab311051e9da--radiant-travesseiro-ac49f2.netlify.app/)
 4. Data is fetched from a local JSON file.
 5. The solution is developed using functional components and hooks.
 6. The solution is developed using Font-Awesome icons.
